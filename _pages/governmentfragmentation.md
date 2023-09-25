@@ -14,13 +14,13 @@ nav: false
 [3] **A Signaling Theory of Distributive Policy Choice: Evidence From Senegal.** (with Jessica Gottlieb, Horacio Larreguy, Benjamin Marx)   
 *** Journal of Politics***, 2019, 81(2): pp. 631-647.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/701833">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_JoP_Government_a_signaling_theory.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJ9E9M">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -35,16 +35,16 @@ A recent literature emphasizes political economy factors behind the wave of admi
 [2] **Government Fragmentation and Public Goods Provision.** (with Jan H. Pierskalla, Emma Boswell Dean)   
 ***Journal of Politics*** 2017, 79(3): pp. 823-840.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/690305">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2017_JoP_Government_government_fragmentation.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2017_JoP_Government_government_fragmentation_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VS3CG6">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -59,16 +59,16 @@ We investigate the effects of territorial government fragmentation on the qualit
 [1] **Administrative Unit Proliferation.** (with Janet I. Lewis)   
 ***American Political Science Review***, 2014, 108(1): pp. 196-217.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/administrative-unit-proliferation/28FB2861D809344D840B245100151918">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_Government_administrative_unit_proliferation.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_Government_administrative_unit_proliferation_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26937">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>

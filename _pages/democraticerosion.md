@@ -15,16 +15,16 @@ nav: false
 [2] **The Majoritarian Threat to Liberal Democracy.** (with Dorothy Kronick, Matthew Levendusky, Marc Meredith)   
 ***Journal of Experimental Political Science***, 2022, 9(1): pp.36-45.
 <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4ECFT">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -39,13 +39,13 @@ Incumbents often seek to wield power in ways that are formally legal but informa
 [1] **The Americas: When Do Voters Support Power Grabs?** (with Michael Albertus)   
 ***Journal of Democracy***, 2021, 32(2): pp. 116-131.
 <a href="https://muse.jhu.edu/article/787840">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoD_Democratic_the_americas.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoD_Democratic_the_americas_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>

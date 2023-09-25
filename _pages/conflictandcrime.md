@@ -14,16 +14,16 @@ nav: false
 [6] **Community policing does not build citizen trust in police or reduce crime in the Global South.** (with Graeme Blair, et al.)   
 ***Science***, 2021, 374(6571): pp. 1046-1047.
 <a href="https://www.science.org/doi/10.1126/science.abd3446">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_Science_Conflict_community_policing.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_Science_Conflict_community_policing_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://osf.io/2juyz/">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -38,16 +38,16 @@ Is it possible to reduce crime without exacerbating adversarial relationships be
 [5] **Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory.** (with Devorah Manekin, Tamar Mitts)   
 ***Political Science Research and Methods***, 2019, 7(4): pp. 679-697.
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/contested-ground-disentangling-material-and-symbolic-attachment-to-disputed-territory/51547A284177A0B4E84B76E1929A0C51">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_PSRM_Conflict_contested_ground.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_PSRM_Conflict_contested_ground_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INCWQN">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -63,13 +63,13 @@ Territorial disputes are prone to conflict because of the value of territory to 
 [4] **Border Walls and Smuggling Spillovers.** (with Anna Getmanskyn, Austin L. Wright)   
 ***Quarterly Journal of Political Science***, 2019, 14(3): pp. 329-347.
 <a href="https://www.nowpublishers.com/article/Details/QJPS-18094">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_QJPS_Conflict_border_walls.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_QJPS_Conflict_border_walls_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -85,10 +85,10 @@ A growing number of states are erecting physical barriers along their borders to
 [3] **How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel.** (with Devorah Manekin, Yotam Margalit)   
 ***Comparative Political Studies***, 2018, 51(14): pp. 1823–1857.
 <a href="https://journals.sagepub.com/eprint/FNVxKbKXwaPcIKUaPSnt/full">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_CPS_Conflict_how_sanctions.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -103,13 +103,13 @@ How do economic sanctions affect the political attitudes of individuals in targe
 [2] **The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants.** (with Devorah Manekin, Dan Miodownik)   
 ***International Organizationrnal***, 2015, 69(4): pp. 981–1009.
 <a href="https://www.cambridge.org/core/journals/international-organization/article/abs/the-political-legacies-of-combat-attitudes-toward-war-and-peace-among-israeli-ex-combatants/88C560C9B90473AC1D7DFDFEF685AEE0#article">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_IO_Conflict_the_political_legacies.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_IO_Conflict_the_political_legacies_replication.zip" target="_blank" rel="noopener noreferrer">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -126,10 +126,10 @@ Recent research has highlighted combat's positive effects for political behavior
 [1] **Courage to Refuse.** (with Rami Kaplan)   
 ***Peace Review***, 2006, 18(2): pp. 189-197.
 <a href="https://www.tandfonline.com/doi/abs/10.1080/10402650600692391?journalCode=cper20">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2006_PR_Conflict_courage_to_refuse.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 
 

@@ -13,13 +13,13 @@ nav: false
 [**Title**](download link)(with Co-Authors)   
 ***Journal***, Month Year, Volume(Issue):pp.
 <a href="">
-  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="download" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="">
-  <img alt="others" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="others" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -32,7 +32,7 @@ nav: false
 **Economic Shocks and Human Trafficking Risks : Evidence from IOM’s Victims of Human Trafficking Database.**   
 ***World Bank and IOM***, 2022, Washington, DC: World Bank.
 <a href="https://openknowledge.worldbank.org/handle/10986/37261">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -46,7 +46,7 @@ The report focuses on risk factors that are expected to increase the vulnerabili
 **Regular and sustained information on incumbent performance improves electoral accountability.** (with Carlo Prato, Kristin Michelitch)   
 ***EGAP Policy Brief 71***, 2020, #71.
 <a href="https://egap.org/resource/brief-71-regular-and-sustained-information-on-incumbent-performance-improves-electoral-accountability/">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 
 <br />
@@ -56,7 +56,7 @@ The report focuses on risk factors that are expected to increase the vulnerabili
 **Information and electoral accountability.** (with Macartan Humphreys, Valerie Mueller)   
 ***IGC Growth Brief Series 022***, 2019, London: International Growth Centre.
 <a href="https://www.theigc.org/publication/information-and-electoral-accountability/">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -70,7 +70,7 @@ Democracy is said to give citizens agency, as elections make it possible for the
 **Does greater public transit access increase employment for the Israeli-Arab Population?** (with Diana B. Greenwald, Amir Levi)   
 2018, *Harvard Kennedy School*.
 <a href="https://www.hks.harvard.edu/centers/mrcbg/publications/awp/awp95">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -85,7 +85,7 @@ In recent years, Israeli policymakers have identified greater economic integrati
 **Does Information Technology Improve Public Service Delivery?** (with Melina Platas, Jonathan Rodden)   
 ***EGAP Policy Brief 51***, 2018, #51.
 <a href="https://egap.org/resource/does-information-technology-improve-public-service-delivery-lessons-from-uganda/">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 
 <br />
@@ -102,6 +102,6 @@ In recent years, Israeli policymakers have identified greater economic integrati
 **Lab-in-the-field Experiments.**   
 ***Newsletter of the APSA Experimental Section***, 2011, 2(2): pp. 13-19.
 <a href="/assets/pdf/policyreports_lab_in_the_field.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 

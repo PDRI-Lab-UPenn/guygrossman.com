@@ -16,7 +16,7 @@ categories: [migration](/mfd/), [information technology](/ict-bettergov/), [poli
 [44] **Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters.** (with Stephanie Zonszein)   
 ***American Political Science Review***, 2023, forthcoming.
 <a href="https://osf.io/w2dg8/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -30,16 +30,16 @@ In many countries, the number of ethnic minority representatives has been steadi
 [43] **The Effect of Sustained Transparency on Electoral Accountability.** (with Kristin Michelitch, Carlo Prato)   
 ***American Journal of Political Science***, 2023, early view.
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12787">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_AJPS_the_effect_of_sustained_transparency_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://egap.org/resource/brief-71-regular-and-sustained-information-on-incumbent-performance-improves-electoral-accountability/?utm_source=EGAP+Community&utm_campaign=cda5cd5073-EMAIL_CAMPAIGN_2019_07_16_10_20_COPY_01&utm_medium=email&utm_term=0_847cab4af0-cda5cd5073-106618351">
-  <img alt="polycybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="polycybrief" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -52,13 +52,13 @@ Transparency is expected to strengthen electoral accountability. Yet, initiative
 [42] **Oil discoveries and political windfalls: Evidence on presidential support in Uganda.** (with Laura Paler, Jeremy Springman, Jan Pierskalla)   
 ***Political Science Research and Methods***, 2023, 11(4): 903-912.
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_PSRM_Oil_discoveries.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_PSRM_Oil_discoveries_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -72,10 +72,10 @@ Oil discoveries, paired with delays in production, have created a new phenomenon
 [41] **Can low-cost, scalable, online intervention increase youth informed political participation in electoral authoritarian contexts?** (with Romain Ferrali, Horacio Larreguy)   
 ***Science Advances***, 2023, 9(26): eadf1222.
 <a href="https://www.science.org/doi/10.1126/sciadv.adf1222">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_SciAdv_Lowcost_online_interventions.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -90,16 +90,16 @@ Young citizens in many democracies, and more so in electoral autocracies, turn o
 [40] **Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy.** (with Gemma Dipoppa, Stephanie Zonszein)   
 ***Journal of Politics***, 2023, 85(2): pp.389-404.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/722346">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_JoP_Migration_locked_down_lashing_out.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_JoP_Migration_locked_down_lashing_out_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0DCWT7">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -114,13 +114,13 @@ Covid-19 caused a significant health and economic crisis, a condition identified
 [39] **Inclusive Refugee-Hosting in Uganda Improves Local Development and Prevents Public Backlash.** (with Yang-Yang Zhou, Shuning Ge)   
 ***World Development***, 2023, 166: pp.106-203.
 <a href="https://www.sciencedirect.com/science/article/pii/S0305750X23000219">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_WD_Inclusive_refugee_hosting.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2023_WD_Inclusive_refugee_hosting_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -138,16 +138,16 @@ Large arrivals of refugees raise concerns about potential tensions with host com
 [38] **How the Ultra-Rich Use Media Ownership as a Political Investment.** (with Yotam Margalit, Tamar Mitts)   
 ***Journal of Politics***, 2022, 84(4): pp.1913-1931.
 <a href="https://www.journals.uchicago.edu/doi/10.1086/719415">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JoP_PE_how_the_ultrarich.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JoP_PE_how_the_ultrarich_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LJMNV9&faces-redirect=true">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -162,10 +162,10 @@ Can the ultra-rich shape electoral results by controlling media outlets that ope
 [37] **Government Responsiveness in Developing Countries.** (with Tara Slough)   
 ***Annual Review of Political Science***, 2022, 25: pp.131-153.
 <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-112501">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_ARPS_PE_government_responsiveness.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -181,13 +181,13 @@ When and how do governments deliver public goods and services in response to cit
 [36] **Who Registers? Village Networks, Household Dynamics, and Voter Registration in Rural Uganda.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
 ***Comparative Political Studies***, 2022, 55(6): pp.899-932.
 <a href="https://journals.sagepub.com/doi/abs/10.1177/00104140211036048">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_CPS_PE_who_registers.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YEFRPC">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -204,16 +204,16 @@ Who registers to vote? Although extensive research has examined the question of 
 [35] **Liberal Displacement Policies Attract Forced Migrants in the Global South.** (with Christopher W. Blair, Jeremy M. Weinstein)   
 ***American Political Science Review***, 2022, 116(1): pp.351-358.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/liberal-displacement-policies-attract-forced-migrants-in-the-global-south/F6872E76FBB27F61B96B90193BDE9A1D">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JoP_Migration_liberal_displacement_policies.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JoP_Migration_liberal_displacement_policies_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AYBXMJ">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -230,16 +230,16 @@ Most forced migrants around the world are displaced within the Global South. We 
 [34] **The Majoritarian Threat to Liberal Democracy.** (with Dorothy Kronick, Matthew Levendusky, Marc Meredith)   
 ***Journal of Experimental Political Science***, 2022, 9(1): pp.36-45.
 <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/majoritarian-threat-to-liberal-democracy/67AF389D753F254BDAA72CC761533A85">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_JEPS_Democratic_the_majoritarian_threat_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4ECFT">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -252,16 +252,16 @@ Incumbents often seek to wield power in ways that are formally legal but informa
 [33] **Forced Displacement and Asylum Policy in the Developing World.** (with Christopher W. Blair, Jeremy M. Weinstein)   
 ***International Organization***, 2022, 76(2): pp.337-378.
 <a href="https://www.cambridge.org/core/journals/international-organization/article/abs/forced-displacement-and-asylum-policy-in-the-developing-world/B89E49C17B0C96E9B9F5D234F190E77D">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoP_Migration_forced_displacement_and_asylum_policy_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OB6FHX">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -276,19 +276,19 @@ Little theoretical or empirical work examines migration policy in the developing
 [32] **Public Trust, Policing, and the COVID-19 Pandemic: Evidence from an Electoral Authoritarian Regime.**(with Rob Blair, Travis Curtice, David Dow)       
 ***Social Science and Medicine***, 2022, 305: 115045.
 <a href="https://www.sciencedirect.com/science/article/pii/S0277953622003513?via%3Dihub">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_SSM_Public_trust_policing.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_SSM_Public_trust_policing_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCG2XH">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2022_SSM_Public_trust_policing_policybrief.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="others" src="/assets/img/world.png" alt="drawing" width="25"/>
+  <img alt="others" src="{{ site.baseurl }}/assets/img/world.png" alt="drawing" width="25"/>
 </a>
 
 <details>
@@ -306,13 +306,13 @@ We examine how trust shapes compliance with public health restrictions during th
 [31] **Viral Voting: Social Networks and Political Participation.** (with Nicholas Eubank, Melina R. Platas, Jonathan Rodden)   
 ***Quarterly Journal of Political Science***, 2021, 16(3): pp. 265-284.
 <a href="https://www.nowpublishers.com/article/Details/QJPS-19092">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_QJPS_PE_viral_voting.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://github.com/nickeubank/EGPR_SocialNetworksAndPoliticalParticipation">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -327,13 +327,13 @@ Social context theory suggests that an important driver of political participati
 [30] **The Americas: When Do Voters Support Power Grabs?** (with Michael Albertus)   
 ***Journal of Democracy***, 2021, 32(2): pp. 116-131.
 <a href="https://muse.jhu.edu/article/787840">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoD_Democratic_the_americas.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_JoD_Democratic_the_americas_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -349,16 +349,16 @@ This article examines the nature of democratic fragilities in the Americas throu
 [29] **Community policing does not build citizen trust in police or reduce crime in the Global South.** (with Graeme Blair, et al.)   
 ***Science***, 2021, 374(6571): pp. 1046-1047.
 <a href="https://www.science.org/doi/10.1126/science.abd3446">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_Science_Conflict_community_policing.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2021_Science_Conflict_community_policing_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://osf.io/2juyz/">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -376,19 +376,19 @@ Is it possible to reduce crime without exacerbating adversarial relationships be
 [28] **Information Technology and Political Engagement: Mixed Evidence from Uganda.** (with Macartan Humphreys, Gabriella Sacramone-Lutz)   
 ***Journal of Politics***, 2020, 82(4): pp. 1321-1336.
 <a href="https://www.journals.uchicago.edu/doi/10.1086/708339">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_JoP_ICT_information_technology.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_JoP_ICT_information_technology_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GBR02C">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <a href="https://egap.org/resource/brief-49-information-technology-and-political-engagement-in-uganda/">
-  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="policybrief" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -405,16 +405,16 @@ This study integrates three related field experiments to learn about how informa
 [27] **The Effect of Election Proximity on Government Responsiveness and Citizens’ Participation: Evidence from English Local Elections.** (with Gemma Dipoppa)   
 ***Comparative Political Studies***, 2020, 53(4): pp. 2183-2212.
 <a href="https://journals.sagepub.com/eprint/GV3U7V9SCKVJJJJNZBHP/full">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_CPS_ICT_the_effect_of_election_proximity_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDAS7N">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -431,16 +431,16 @@ Does political engagement depend on government responsiveness? Identifying the d
 [26] **Political partisanship influences behavioral responses to governors’ recommendations for COVID-19 prevention in the United States.** (with Soojong Kim, Jonah M. Rexer, Harsha Thirumurthy)   
 ***Proceedings of the National Academy of Sciences***, 2020, 117(39): pp. 24144-24153.
 <a href="https://www.pnas.org/content/early/2020/09/14/2007835117">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_NAS_PE_political_partisanship.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2020_NAS_PE_political_partisanship_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataverse/COVID19governors/">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -455,16 +455,16 @@ Voluntary physical distancing is essential for preventing the spread of COVID-19
 [25] **It Takes a Village: Peer Effects and Externalities in Technology Adoption.** (with Romain Ferrali, Melina R. Platas, Jonathan Rodden)   
 ***American Journal of Political Science***, 2019, 64(3): pp. 536-553.
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12471?campaign=wolearlyview">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_AJPS_ICT_it_takes_a_village.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_AJPS_ICT_it_takes_a_village_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NOYBCQ">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -481,19 +481,19 @@ Do social networks matter for the adoption of new forms of political participati
 [24] **Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials.** (with Thad Dunning, et al.)   
 ***Science Advances***, 2019, 5(7): pp. 1188-1192.
 <a href="https://www.science.org/doi/10.1126/sciadv.aaw2612">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_Science_PE_voter_information_campaigns.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_Science_PE_voter_information_campaigns_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://github.com/egap/metaketa-i">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <a href="https://egap.org/resource/brief-59-information-and-accountability/">
-  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="policybrief" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -509,13 +509,13 @@ Voters may be unable to hold politicians to account if they lack basic informati
 [23] **A Signaling Theory of Distributive Policy Choice: Evidence From Senegal.** (with Jessica Gottlieb, Horacio Larreguy, Benjamin Marx)   
 *** Journal of Politics***, 2019, 81(2): pp. 631-647.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/701833">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_JoP_Government_a_signaling_theory.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJ9E9M">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -530,16 +530,16 @@ A recent literature emphasizes political economy factors behind the wave of admi
 [22] **Contested Ground: Disentangling Material and Symbolic Attachment to Disputed Territory.** (with Devorah Manekin, Tamar Mitts)   
 ***Political Science Research and Methods***, 2019, 7(4): pp. 679-697.
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/contested-ground-disentangling-material-and-symbolic-attachment-to-disputed-territory/51547A284177A0B4E84B76E1929A0C51">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_PSRM_Conflict_contested_ground.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_PSRM_Conflict_contested_ground_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INCWQN">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -554,13 +554,13 @@ Territorial disputes are prone to conflict because of the value of territory to 
 [21] **Border Walls and Smuggling Spillovers.** (with Anna Getmanskyn, Austin L. Wright)   
 ***Quarterly Journal of Political Science***, 2019, 14(3): pp. 329-347.
 <a href="https://www.nowpublishers.com/article/Details/QJPS-18094">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_QJPS_Conflict_border_walls.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_QJPS_Conflict_border_walls_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -575,10 +575,10 @@ A growing number of states are erecting physical barriers along their borders to
 **Leadership Selection Rules and Decentralized Governance.**    
 ***Decentralized Governance and Accountability: Academic Research and the Future of Donor Programming***, eds. Erik Wibbles and Jonathan Rodden, 2019, chapter 3: pp. 40-60.
 <a href="https://www.cambridge.org/core/books/decentralized-governance-and-accountability/F1766AE315D63C1935B82A69074DAEA1">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2019_PE_leadership_selection_rules.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 
 
@@ -590,10 +590,10 @@ A growing number of states are erecting physical barriers along their borders to
 [19] **How Sanctions Affect Public Opinion in Target Countries: Experimental Evidence from Israel.** (with Devorah Manekin, Yotam Margalit)   
 ***Comparative Political Studies***, 2018, 51(14): pp. 1823–1857.
 <a href="https://journals.sagepub.com/eprint/FNVxKbKXwaPcIKUaPSnt/full">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_CPS_Conflict_how_sanctions.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -609,16 +609,16 @@ How do economic sanctions affect the political attitudes of individuals in targe
 [18] **Do Men and Women Have Different Policy Preferences in Africa? Determinants and Implications of Gender Gaps in Policy Prioritization.** (with Jessica Gottlieb, Amanda Lea Robinson)   
 ***British Journal of Political Science***, 2018, 48(3): pp. 611-638.
 <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/do-men-and-women-have-different-policy-preferences-in-africa-determinants-and-implications-of-gender-gaps-in-policy-prioritization/CE824A46AE39D05FC79900C50DCEC0C4">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_BJPS_Identity_do_men_and_women.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_BJPS_Identity_do_men_and_women_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIWLCJ">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -635,19 +635,19 @@ Policies designed to increase women’s representation in Africa are often motiv
 [17] **Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.** (with Kristin Michelitch)   
 ***American Political Science Review***, 2018, 112(2): pp. 280-301.
 <a href="http://bit.ly/2FTkhR6">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_APSR_PE_information_dissemination.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_APSR_PE_information_dissemination_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AI3VM8">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <a href="https://egap.org/resource/strengthening-local-political-accountability-through-information-in-uganda/">
-  <img alt="policybrief" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="policybrief" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -663,16 +663,16 @@ Politicians shirk when their performance is obscure to constituents. We theorize
 [16] **Crowdsourcing Accountability: ICT for Service Delivery.** (with Melina R.Platas, Jonathan Roddenc)   
 ***World Development***, 2018, 112: pp. 74-87.
 <a href="https://www.sciencedirect.com/science/article/pii/S0305750X18302286">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_WD_ICT_crowdsourcing_accountability.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2018_WD_ICT_crowdsourcing_accountability_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FFBNBU">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -687,10 +687,10 @@ We examine the effect on service delivery outcomes of a new information communic
 [15] **Texting Complaints to Politicians: Name Personalization and Politicians’ Encouragement in Citizen Mobilization.** (with Kristin Michelitch, Marta Santamaria)   
 ***Comparative Political Studies*** 2017, 50(10): pp. 1325-1357.
 <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414016666862">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2017_CPS_ICT_texting_commplaints.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -705,16 +705,16 @@ Poor public service provision and government accountability is commonplace in lo
 [14] **Government Fragmentation and Public Goods Provision.** (with Jan H. Pierskalla, Emma Boswell Dean)   
 ***Journal of Politics*** 2017, 79(3): pp. 823-840.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/690305">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2017_JoP_Government_government_fragmentation.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2017_JoP_Government_government_fragmentation_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VS3CG6">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -730,16 +730,16 @@ We investigate the effects of territorial government fragmentation on the qualit
 [13] **Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes.** (with Keven Croke, Horacio A. Larreguy, John Marshall)   
 ***American Political Science Review***, 2016, 110(3): pp. 579-600.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/deliberate-disengagement-how-education-can-decrease-political-participation-in-electoral-authoritarian-regimes/192AB48618B0E0450C93E97BE8321218">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2016_APSR_PE_deliberate_disengagement.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2016_APSR_PE_deliberate_disengagement_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2016_APSR_PE_deliberate_disengagement_replication.zip" target="_blank" rel="noopener noreferrer">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -755,16 +755,16 @@ A large literature examining advanced and consolidating democracies suggests tha
 [12] **Descriptive Representation and Judicial Outcomes in Multi-Ethnic Societies.** (with Oren Gazal-Ayal, Samuel D. Pimentel, Jeremy M. Weinstein)   
 ***American Journal of Political Science***, 2016, 60(1): pp. 44–69.
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12187">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2016_AJPS_Identity_descriptive_representation.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2016_AJPS_Identity_descriptive_representation_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28870">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -780,16 +780,16 @@ The extent to which judicial outcomes depend on judges' identities is a central 
 [11] **Renewalist Christianity and the Political Saliency of LGBTs: Theory and Evidence from Sub-Saharan Africa.**  
 *** Journal of Politics***, 2015, 77(2): pp. 337-351.
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/679596">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_JoP_Identity_renewalist_christianity.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_JoP_Identity_renewalist_christianity_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I7KXPA">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -804,13 +804,13 @@ One key political development in the past decade in many, but not all, countries
 [10] **The Political Legacies Of Combat: Attitudes Towards War And Peace Among Israeli Ex-Combatants.** (with Devorah Manekin, Dan Miodownik)   
 ***International Organizationrnal***, 2015, 69(4): pp. 981–1009.
 <a href="https://www.cambridge.org/core/journals/international-organization/article/abs/the-political-legacies-of-combat-attitudes-toward-war-and-peace-among-israeli-ex-combatants/88C560C9B90473AC1D7DFDFEF685AEE0#article">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_IO_Conflict_the_political_legacies.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_IO_Conflict_the_political_legacies_replication.zip" target="_blank" rel="noopener noreferrer">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -826,10 +826,10 @@ Recent research has highlighted combat's positive effects for political behavior
 [9] **Using Experiments to Study Political Institutions.** (with Laura Paler)       
 ***Handbook of Comparative Political Institutions***, eds. Jennifer Gandhi and Rubén Ruiz-Rufino, 2015, Routledge: pp. 84-97.
 <a href="https://www.routledge.com/Routledge-Handbook-of-Comparative-Political-Institutions/Gandhi-Ruiz-Rufino/p/book/9780415630887">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2015_PE_using_field_experiments.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 
 
@@ -841,16 +841,16 @@ Recent research has highlighted combat's positive effects for political behavior
 [8] **I would like u WMP to extend electricity 2 our village": On Information Technology and Interest Articulation.** (with Macartan Humphreys, Gabriella Sacramone-Lutz)   
 ***American Political Science Review***, 2014, 108(3): pp. 688-705.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/i-wld-like-u-wmp-to-extend-electricity-2-our-village-on-information-technology-and-interest-articulation/2F7F012EED269B795DF642ECFC3830AC">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_ICT_I_would_like_u_WMP_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27192">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -866,16 +866,16 @@ How does access to information communication technology (ICT) affect who gets he
 [7] **Do better monitoring institutions increase leadership quality in community organizations? Evidence from Uganda.** (with W. Walker Hanlon)   
 ***American Journal of Political Science***, Year, 58(3): pp. 669–686.
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12071">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_AJPS_PE_do_better_monitoring.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_AJPS_PE_do_better_monitoring_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22124">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -891,16 +891,16 @@ We offer a framework for analyzing the impact of monitoring—a commonly recomme
 [6] **Do Selection Rules Affect Leader Responsiveness? Evidence from Rural Uganda.**    
 ***Quarterly Journal of Political Science***, 2014, 9(1): pp. 1-44 *lead article*.
 <a href="https://www.nowpublishers.com/article/Details/QJPS-13012">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_QJPS_PE_do_selection_rules.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_QJPS_PE_do_selection_rules_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/22201">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -915,16 +915,16 @@ Community organizations in developing countries often suffer from selfserving el
 [5] **Administrative Unit Proliferation.** (with Janet I. Lewis)   
 ***American Political Science Review***, 2014, 108(1): pp. 196-217.
 <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/administrative-unit-proliferation/28FB2861D809344D840B245100151918">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_Government_administrative_unit_proliferation.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2014_APSR_Government_administrative_unit_proliferation_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26937">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -940,13 +940,13 @@ Numerous developing countries have substantially increased their number of subna
 [4] **The Effect of Group Attachment and Social Position on Prosocial Behavior. Evidence from Lab-in-the-Field Experiments.** (with Delia Baldassarri)   
 ***PLoS ONE***, Year, 8(3): e58750.
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058750">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2013_PLosOne_Identity_the_effect_of_group_attachment_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -963,16 +963,16 @@ Social life is regulated by norms of fairness that constrain selfish behavior. W
 [3] **The Impact of Elections on Cooperation: Evidence from a Lab-in-the-Field Experiment in Uganda.** (with Delia Baldassarri)   
 ***American Journal of Political Science***, 2012, 56(4): pp. 964-985.
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2012.00596.x">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2012_AJPS_PE_the_impact_of_elections.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2012_AJPS_PE_the_impact_of_elections_appendix.docx" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18334">
-  <img alt="replication" src="/assets/img/data.png" alt="drawing" width="25"/>
+  <img alt="replication" src="{{ site.baseurl }}/assets/img/data.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -989,13 +989,13 @@ Communities often rely on sanctioning to induce public goods contributions. Past
 [2] **Centralized Sanctioning and Legitimate Authority Promote Cooperation in Humans.** (with Delia Baldassarri)   
 ***Proceedings of the National Academy of Sciences***, Year, 27(108): pp. 11023–11027.
 <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1105456108">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2011_NAS_PE_centralized_sanctioning.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2011_NAS_PE_centralized_sanctioning_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -1012,10 +1012,10 @@ Social sanctioning is widely considered a successful strategy to promote coopera
 [1] **Courage to Refuse.** (with Rami Kaplan)   
 ***Peace Review***, 2006, 18(2): pp. 189-197.
 <a href="https://www.tandfonline.com/doi/abs/10.1080/10402650600692391?journalCode=cper20">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/2006_PR_Conflict_courage_to_refuse.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 
 

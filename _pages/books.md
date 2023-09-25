@@ -11,7 +11,7 @@ nav: false
 **Policies and Practices to Minimize Police Use of Force Internationally.**     
 ***National Academies of Sciences, Engineering, and Medicine***, 2022 (Committee member and contributing author), Washington: *National Academies Press*.
 <a href="https://nap.nationalacademies.org/catalog/26582/policies-and-practices-to-minimize-police-use-of-force-internationally">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Description</summary>
@@ -32,7 +32,7 @@ Policies and Practices to Minimize Police Use of Force Internationally, the thir
 **Police Training to Promote the Rule of Law and Protect the Population.**     
 ***National Academies of Sciences, Engineering, and Medicine***, 2022 (Committee member and contributing author), Washington: *National Academies Press*.
 <a href="https://www.nap.edu/catalog/26467/police-training-to-promote-the-rule-of-law-and-protect-the-population?utm_source=All+DBASSE+Newsletters&utm_campaign=d34f13e1b2-CLAJ-INL-Report-2&utm_medium=email&utm_term=0_e16023964e-d34f13e1b2-275367179">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Description</summary>
@@ -48,7 +48,7 @@ At the request of the U.S. State Department's Bureau of International Narcotics 
 **Crime, Insecurity, and Community Policing: Experiments on Building Trust.** (with Graeme Blair, Fotini Christia, Jeremy M. Weinstein, Eric Arias, Emile Badran, Robert A. Blair, Ali Cheema, Thiemo Fetzer, Dotan Haim, Rebecca Hanson, Ali Hasanain, Ben Kachero, Dorothy Kronick, Benjamin Morse, Robert Muggah, Matthew Nanes, Tara Slough, Nico Ravanilla, Jacob N. Shapiro, Barbara Silva, Pedro C. L. Souza, Lily Tsai, and Anna Wilke)     
 2022, Under advance contract, *Cambridge University Press*.
 <a href="https://egap.org/our-work-0/the-metaketa-initiative/round4-community-policing/">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 
 <br />
@@ -58,7 +58,7 @@ At the request of the U.S. State Department's Bureau of International Narcotics 
 **"Policing to Promote the Rule of Law and Protect the Population: An Evidence-based Approach.**   
 ***National Academies of Sciences, Engineering, and Medicine***, 2022 (Committee member and contributing author), Washington: *National Academies Press*.
 <a href="https://www.nap.edu/catalog/26217/policing-to-promote-the-rule-of-law-and-protect-the-population">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Description</summary>
@@ -78,7 +78,7 @@ At the request of INL, Policing to Promote the Rule of Law and Protect the Popul
 **Information, Accountability, and Cumulative Learning: Lessons from Metaketa I.** (with Thad Dunning, Macartan Humphreys, Susan D. Hyde, Craig McIntosh, Gareth Nellis)     
 2019, *Cambridge University Press (Cambridge Studies in Comparative Politics series)*.
 <a href="https://www.cambridge.org/core/books/information-accountability-and-cumulative-learning/45DD58C16ED29DFFA9D69F0CF740EFB4">
-  <img alt="webpage" src="/assets/img/webpage.png" alt="drawing" width="25"/>
+  <img alt="webpage" src="{{ site.baseurl }}/assets/img/webpage.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Description</summary>

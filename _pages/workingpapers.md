@@ -15,13 +15,13 @@ nav: false
 [**Title**](download link)(with Co-Authors)   
 ***Journal***, Month Year, Volume(Issue):pp.
 <a href="">
-  <img alt="download" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="download" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <a href="">
-  <img alt="others" src="/assets/img/newspaper.png" alt="drawing" width="25"/>
+  <img alt="others" src="{{ site.baseurl }}/assets/img/newspaper.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ nav: false
 **The Electoral Consequences of Cellphone Coverage Expansion.** (with Shuning Ge, Katrina Kosec, Apoorva Lal, Benjamin Laughlin)   
 Revise & Resubmit at ***Political Science Research and Methods***, 2023.
 <a href="https://osf.io/y94d5/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -53,10 +53,10 @@ Using the case of Ghana, we analyze the electoral effects of cellphone coverage 
 **Voted In, Standing Out: Public Response to Immigrants’ Political Accession.** (with Stephanie Zonszein)   
 Revise & Resubmit at ***American Journal of Political Science***, 2022.
 <a href="https://osf.io/xd4wk/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://immigrationlab.org/working-paper-series/voted-standing-public-response-immigrants-political-accession/">
-  <img alt="others" src="/assets/img/world.png" alt="drawing" width="25"/>
+  <img alt="others" src="{{ site.baseurl }}/assets/img/world.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -72,10 +72,10 @@ What is the reaction of the host society to immigrants’ political integration?
 **Gender Gap in Politician Performance and its Determinants.** (with Ana Garcia-Hernandez, Kristin Michelitch)   
 Revise & Resubmit at ***PLOS One***, 2022.
 <a href="/assets/pdf/workingpaper_gender_gap.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="/assets/pdf/workingpaper_gender_gap_appendix.pdf" target="_blank" rel="noopener noreferrer">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -90,7 +90,7 @@ Women politicians face barriers that can undermine their performance relative to
 **Do More Disaggregated Electoral Results Deter Aggregation Fraud?** (with Miguel Rueda, Shuning Ge)   
 2023.
 <a href="https://osf.io/dqt6c/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -106,10 +106,10 @@ It has been argued that the level at which electoral results are published can a
 **When Refugee Exposure Increases Incumbent Support through Development: Evidence from Uganda.** (with Yang-Yang Zhou)     
 2022.
 <a href="https://osf.io/94tpy/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <a href="https://osf.io/aw7zk/">
-  <img alt="appendix" src="/assets/img/appendix.png" alt="drawing" width="25"/>
+  <img alt="appendix" src="{{ site.baseurl }}/assets/img/appendix.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
@@ -121,7 +121,7 @@ In higher-income democracies, studies have found that refugee shocks cause voter
 **Can Community Policing Improve Police- Community Relations in an Authoritarian Regime?** (with Rob Blair, Anna Wilke)   
 2021.
 <a href="https://osf.io/wkrcm/">
-  <img alt="pdf" src="/assets/img/pdf.png" alt="drawing" width="25"/>
+  <img alt="pdf" src="{{ site.baseurl }}/assets/img/pdf.png" alt="drawing" width="25"/>
 </a>
 <details>
   <summary>Abstract</summary>
